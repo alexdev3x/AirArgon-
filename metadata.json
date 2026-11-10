@@ -1,0 +1,6 @@
+{
+  "name": "WebClone AI Studio - Live Website Builder & Cloner",
+  "description": "Generate and clone complete interactive websites from messages, screenshots, and uploaded files in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
